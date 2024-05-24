@@ -1,3 +1,4 @@
+
 # Student-Record-Management-System
 Student Record Management System
 
@@ -15,22 +16,34 @@ Getting Started
 
 	Prerequisites
 			•	Java Development Kit (JDK) installed on your machine.
+   
 			•	A Java IDE or a simple text editor.
+   
 			•	A command-line interface (CLI) for running the Java program.
 Installation
 	1.	Clone or download the repository:
+ 
 				o	Clone the repository using Git:
 				git clone https://github.com/yourusername/StudentRecordManagementSystem.git
+    
 				o	Or download the ZIP file and extract it to a directory of your choice.
+    
 		2.	Navigate to the project directory:
+  
 				cd StudentRecordManagementSystem
+    
 		3.	Compile the Java file:
+  
 				javac StudentRecordManagementSystem.java
+    
 		4.	Run the application:
+  
 				java StudentRecordManagementSystem
 
 Usage
+
 Menu Options
+
 Upon running the program, you will be presented with the following menu:
 
 Administrator Menu:
