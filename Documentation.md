@@ -35,40 +35,40 @@ Instructions for Running the Program:
 
 Example Usage:
 
-Administrator Menu:
-1. Add New Student
-2. Update Student Information
-3. View Student Details
-4. Exit
-Enter your choice (1-4): 1
+		Administrator Menu:
+		1. Add New Student
+		2. Update Student Information
+		3. View Student Details
+		4. Exit
+		Enter your choice (1-4): 1
+		
+		Enter student name: Becky Li
+		Enter student ID: 100001
+		Enter student age: 10
+		Enter student grade: 5
+		Student added successfully.
 
-Enter student name: Becky Li
-Enter student ID: 100001
-Enter student age: 10
-Enter student grade: 5
-Student added successfully.
-
-Administrator Menu:
-1. Add New Student
-2. Update Student Information
-3. View Student Details
-4. Exit
-Enter your choice (1-4): 3
-
-Enter student ID to view details: 100001
-Name: Becky Li
-ID: 100001
-Age: 10
-Grade: 5
-
-Administrator Menu:
-1. Add New Student
-2. Update Student Information
-3. View Student Details
-4. Exit
-Enter your choice (1-4): 4
-
-Exiting program...
+		Administrator Menu:
+		1. Add New Student
+		2. Update Student Information
+		3. View Student Details
+		4. Exit
+		Enter your choice (1-4): 3
+		
+		Enter student ID to view details: 100001
+		Name: Becky Li
+		ID: 100001
+		Age: 10
+		Grade: 5
+		
+		Administrator Menu:
+		1. Add New Student
+		2. Update Student Information
+		3. View Student Details
+		4. Exit
+		Enter your choice (1-4): 4
+		
+		Exiting program...
 
 
 
