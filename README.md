@@ -25,6 +25,7 @@ Getting Started
    
 			•	A command-line interface (CLI) for running the Java program.
 Installation
+
 		1.	Clone or download the repository:
  
 				o	Clone the repository using Git:
