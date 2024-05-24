@@ -7,9 +7,13 @@ Overview
 The Student Record Management System is a simple Java console application designed to manage student records. It allows administrators to add new students, update existing student information, and view student details. This system uses ArrayLists to store and manage student data such as names, IDs, ages, and grades.
 
 Features
+
 		•	Add New Student: Allows administrators to add a new student by entering their name, ID, age, and grade.
+  
 		•	Update Student Information: Enables updating the age and grade of an existing student based on their ID.
+  
 		•	View Student Details: Provides the ability to view the details of a student by entering their ID.
+  
 		•	Exit: Allows the user to exit the application.
 
 Getting Started
@@ -21,7 +25,7 @@ Getting Started
    
 			•	A command-line interface (CLI) for running the Java program.
 Installation
-	1.	Clone or download the repository:
+		1.	Clone or download the repository:
  
 				o	Clone the repository using Git:
 				git clone https://github.com/yourusername/StudentRecordManagementSystem.git
